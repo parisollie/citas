@@ -2,7 +2,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Citas CRUD React Native App 
 
-A new Reacy native project.
+A new React native project.
 
 ## Getting Started
 
